@@ -1,4 +1,4 @@
-# IMDB Sentiment Analysis - Flutter Frontend
+# SentimentAI: AI Powered Sentiment Analyzer
 
 A Flutter mobile application for sentiment analysis using Logistic Regression and Naive Bayes models trained on the IMDB dataset.
 
