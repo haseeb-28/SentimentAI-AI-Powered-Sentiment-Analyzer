@@ -93,3 +93,17 @@ The Flutter application will connect to the backend and display sentiment predic
 6. Launch the Flutter app (`flutter run`) on your target device or emulator.
 
 
+## 📸 Output Screenshots
+
+![Screenshot 1](assets/Picture1.jpg)
+![Screenshot 2](assets/Picture2.jpg)
+![Screenshot 3](assets/Picture3.jpg)
+![Screenshot 3](assets/Picture4.jpg)
+![Screenshot 3](assets/Picture5.jpg)
+![Screenshot 3](assets/Picture6.jpg)
+![Screenshot 3](assets/Picture7.jpg)
+![Screenshot 3](assets/Picture8.jpg)
+![Screenshot 3](assets/Picture9.jpg)
+![Screenshot 3](assets/Picture10.jpg)
+![Screenshot 3](assets/Picture11.jpg)
+![Screenshot 3](assets/Picture12.jpg)
